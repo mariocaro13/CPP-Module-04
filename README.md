@@ -16,7 +16,6 @@ Across four exercises, you will gradually build a hierarchy of Animal classes, e
 	make clean
 	```
 	```
-	```
 	make fclean
 	```
 	```
